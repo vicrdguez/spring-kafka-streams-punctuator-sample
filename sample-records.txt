@@ -1,0 +1,1 @@
+null:{"version":1,"correlationId":"ae8f1585-2bcc-428b-a357-d77b2b2257b4","clientTimeZone":"Asia/Kuwait","inputs":{"id":12466431,"starttime":"1700121553","opcode":"insert","msisdn":"hello","customer_id":"98790982","second":"N"}}
